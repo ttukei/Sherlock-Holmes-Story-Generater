@@ -1,4 +1,4 @@
-# Sherlock-Holmes-Story-Generater
+# Sherlock Holmes Story Generater
 
 Assignment for Raghavi Sakpal's TCSS 435 Artificial Intelligence and Knowledge Acquisition class at the Univerisity of Washington.   
 
